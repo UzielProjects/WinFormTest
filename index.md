@@ -4,9 +4,7 @@ Here we describe the app.
 
 This is a description...
 
-To install we provide a [link](https://uzielprojects.github.io/WinFormTest/AppPackages/WinFormAppMSIX.appinstaller)
-
-and the last [certificate](https://uzielprojects.github.io/AppPackages/WinFormAppMSIX_1.0.7.0_Test/WinFormAppMSIX_1.0.7.0_x64.cer)
+To install we provide a [link](https://uzielprojects.github.io/WinFormTest/AppPackages/index.html)
 
 ## Whats new
 
