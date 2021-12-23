@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://uzielprojects.github.io/WinFormTest/AppPackages/WinFormAppMSIX.appinstaller"
+	Version="1.0.7.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="3ea4b495-141f-4f47-a0fb-1d074f10f5f4"
+		Version="1.0.7.0"
+		Publisher="CN=Nisim"
+		Uri="https://uzielprojects.github.io/WinFormTest/AppPackages/WinFormAppMSIX_1.0.7.0_Test/WinFormAppMSIX_1.0.7.0_x64.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
