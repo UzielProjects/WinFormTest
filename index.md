@@ -4,7 +4,7 @@ Here we describe the app.
 
 This is a description...
 
-To install we provide a [link](https://uzielprojects.github.io/WinFormTest/AppPackages/index.html)
+To install we provide a [link](ms-appinstaller:?source=https://uzielprojects.github.io/WinFormTest/AppPackages/index.html)
 
 ## Whats new
 
