@@ -2,4 +2,4 @@
 
 Some info about it.
 
-and link to [a file](./read_me.txt)
+and link to [a file](./docs/read_me.txt)
