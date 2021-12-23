@@ -5,7 +5,5 @@
 		Version="1.0.8.0"
 		Publisher="CN=Uziel Nisim"
 		Uri="https://uzielprojects.github.io/WinFormTest/AppPackages/WinFormAppMSIX_1.0.8.0_Test/WinFormAppMSIX_1.0.8.0_x64.msixbundle" />
-	<UpdateSettings>
-		<OnLaunch HoursBetweenUpdateChecks="0" />
-	</UpdateSettings>
+	<UpdateSettings> <OnLaunch HoursBetweenUpdateChecks="0" /> </UpdateSettings>
 </AppInstaller>
