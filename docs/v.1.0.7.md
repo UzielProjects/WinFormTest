@@ -2,4 +2,4 @@
 
 Some info about it.
 
-and link to [a file](read_me.txt download)
+and link to [a file](read_me.txt)
